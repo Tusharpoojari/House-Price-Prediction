@@ -1,34 +1,33 @@
-# 🏠 House Price Prediction
+House Price Prediction
 
 This project uses Machine Learning to predict house prices based on various features like location, area, and other factors.
 
-## 📌 Project Overview
+1 . Project Overview
 The goal of this project is to build a predictive model that estimates house prices using real-world housing data.
 
-## 🛠️ Tech Stack
+2 . Tech Stack
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
 - Jupyter Notebook
 
-## 📂 Project Structure
+3 . Project Structure
 - Data/ → dataset used
 - notebooks/ → analysis & model building
 
-## 🚀 Features
+4 . Features
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Model Training
 - Prediction
 
-## 📊 Output
+5 . Output
 Model predicts house prices based on input features.
 
-## 📎 Future Improvements
+6 . Future Improvements
 - Add more advanced models
 - Deploy as a web app
 
----
 
 👨‍💻 Developed by Tushar Poojari
