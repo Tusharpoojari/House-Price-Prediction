@@ -1,0 +1,57 @@
+
+House Price Prediction (project)
+
+This is my 1st ever project on Ai/ml beginner level in this i will be learning a lot about how it works , what, which and most important why ? .
+
+This project predicts the median hosue value usning hosuing features like income , area , rooms , location ,etc.
+
+
+Why i am making this project :-
+ 1.To understand the logics behind projects 
+ 2.How algorithms are implemented 
+ 3.How the algorithms worked 
+ 4.How the imput and output are solves the Questions (in this stituation the price of house )
+
+House Price Prediction
+
+1.Problem Statement:- Guess the price of house (“Predict median house value using multiple socio-economic and geographical features.”)
+
+2.Dataset Name:- california Housing Dataset
+
+3.Goal:- To guess the correct price of house by the given dataset 
+
+Info OF Project :-
+
+1.The house price will be depended of area of house (SQrft)
+(“House prices are influenced by multiple factors, not just area. Location, income level, and population density also play a significant role.”)
+location
+population
+avg rooms
+income
+age
+
+Feature	Meaning
+latitude / longitude	 
+avg_rooms	  
+population	
+households	
+median_income	
+house_age
+
+2.The area of house is more important than the numbers of bedroom because in area every corner of house is measured and calculated 
+
+3.IF the data is wrong then the house price will be invalid accroding to the area SQRFT
+
+4.To solve this problem in machine learning there is algorithm called Linear regression in short terms regresion beacuse it deals with the numbers so we can get a proper price number of the house according to the area   ye notyevook ka h
+
+The features will targeted by the x and y value 
+for x stands for all columns features ,
+y stands for MedhouseVal
+
+Why Train the data is important?
+To train the data to model beacuse to learn the data toi model that what is the data thats means train the data 
+
+why test the data is imnportant?
+to surprise the model   
+
+The model we are using for this project is linear regression beacuse it is simnple and that theorem deal with the numbers only and it is fast also
